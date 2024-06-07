@@ -42,7 +42,7 @@ export default function Homepage({
           >
             넥스트 샘플 페이지 
             <Box sx={{ color: 'grey', fontSize: 10 }}>
-              프리즈마 / 버셀 설정 완료
+              프리즈마 / 버셀 / 리덕스 설정 완료
             </Box>
           </Typography>
 

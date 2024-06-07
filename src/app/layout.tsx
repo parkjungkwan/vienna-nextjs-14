@@ -25,7 +25,10 @@ export default function RootLayout({
     <html lang="en">
       <body className={inter.className}>
         <ReduxProvider>
+        <div className="h-screen">
+        <Header />
         {children}
+        </div>
         </ReduxProvider>
         </body>
     </html>
